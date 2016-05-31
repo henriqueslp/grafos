@@ -51,11 +51,7 @@ public class Grafo {
         arestas.add(e);
         return e;
     }
-	
-	public boolean arvoreGeradoraMinima (Vertice origem){
-		
-	}	
-	
+
     public String toString() {
         String r = "";
         for (Vertice u : vertices) {
